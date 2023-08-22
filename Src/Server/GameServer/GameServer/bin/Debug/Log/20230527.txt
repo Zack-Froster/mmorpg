@@ -1,0 +1,27 @@
+
+2023-05-27 17:35:25,640 [1] [INFO ] [GameServer] ：Game Server Init
+2023-05-27 17:35:26,339 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-05-27 17:35:26,557 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:奥特兰
+2023-05-27 17:35:26,568 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外1
+2023-05-27 17:35:26,568 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外2
+2023-05-27 17:35:26,568 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:副本1
+2023-05-27 17:35:26,569 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-05-27 17:35:26,621 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,622 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-27 17:35:26,721 [1] [WARN ] [GameServer] ：NetService Started
+2023-05-27 19:44:40,183 [21] [WARN ] [GameServer] ：Client[127.0.0.1:56766]] Connected
+2023-05-27 19:44:40,216 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-05-27 19:44:40,302 [5] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-05-27 19:45:00,467 [7] [WARN ] [GameServer] ：Client[] Disconnected
+2023-05-27 19:47:19,499 [7] [WARN ] [GameServer] ：Client[127.0.0.1:56835]] Connected
+2023-05-27 19:47:19,539 [7] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-05-27 19:47:19,540 [5] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-05-27 19:47:30,024 [7] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-05-27 19:47:30,026 [5] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-05-27 19:47:30,029 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0

@@ -1,0 +1,164 @@
+2023-07-25 12:45:43,766 [ 1] INFO  Unity: LoadingManager start
+2023-07-25 12:45:46,857 [ 1] INFO  Unity: DataManager > DataManager()
+2023-07-25 12:45:51,274 [ 1] INFO  Unity: UserLoginRequest:user :User1 psw:111
+2023-07-25 12:45:51,275 [ 1] INFO  Unity: ConnectToServer() Start 
+2023-07-25 12:45:51,278 [ 1] INFO  Unity: DoConnect
+2023-07-25 12:45:51,278 [ 1] INFO  Unity: NetClient.DoConnect on 127.0.0.1:8000
+2023-07-25 12:45:51,281 [ 1] INFO  Unity: Connect[0] to server 127.0.0.1:8000
+
+2023-07-25 12:45:51,284 [ 1] INFO  Unity: LoadingMesager::OnGameServerConnect :0 reason:Success
+2023-07-25 12:45:51,366 [ 1] INFO  Unity: OnUserLogin:user:Success   None
+2023-07-25 12:45:51,367 [ 1] INFO  Unity: LoadLevel: CharSelect
+2023-07-25 12:45:51,544 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-07-25 12:45:51,545 [ 1] INFO  Unity: Count:System.Collections.Generic.List`1[SkillBridge.Message.NCharacterInfo]
+2023-07-25 12:45:51,940 [ 1] INFO  Unity: Select Char:[1]haha[Archer]
+2023-07-25 12:45:52,599 [ 1] INFO  Unity: UserGameEnterRequest::characterId :0
+2023-07-25 12:45:52,619 [ 1] INFO  Unity: OnGameEnter:Success [None]
+2023-07-25 12:45:52,621 [ 1] INFO  Unity: ItemManager:Init[Id:1,Count:30]
+2023-07-25 12:45:52,621 [ 1] INFO  Unity: ItemManager:Init[Id:2,Count:30]
+2023-07-25 12:45:52,622 [ 1] INFO  Unity: ItemManager:Init[Id:3,Count:5]
+2023-07-25 12:45:52,632 [ 1] INFO  Unity: LoadLevel: MainCity
+2023-07-25 12:45:52,632 [ 1] INFO  Unity: OnMapCharacterEnter:Map:1 Count:1
+2023-07-25 12:45:52,634 [ 1] INFO  Unity: AddCharacter:24:haha Map:1 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:45:52,635 [ 1] INFO  Unity: LoadLevel: MainCity
+2023-07-25 12:45:52,984 [ 1] WARN  Unity: No mesh data available for mesh Sphere001 on particle system fx_portal. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+
+2023-07-25 12:45:52,985 [ 1] WARN  Unity: No mesh data available for mesh Sphere001 on particle system fx_portal. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+
+2023-07-25 12:45:53,066 [ 1] WARN  Unity: UIWorldElementManager[953268] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,067 [ 1] WARN  Unity: UIMain[954428] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,067 [ 1] WARN  Unity: MainPlayerCamera[955502] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,068 [ 1] WARN  Unity: GameObjectManager[953088] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,101 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-07-25 12:45:53,372 [ 1] WARN  Unity: UIWorldElementManager[956842] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,373 [ 1] WARN  Unity: UIMain[958002] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,373 [ 1] WARN  Unity: MainPlayerCamera[959076] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,374 [ 1] WARN  Unity: GameObjectManager[956662] Awake
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MonoSingleton`1:Awake() (at Assets/Scripts/Utilities/MonoSingleton.cs:23)
+
+2023-07-25 12:45:53,392 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-07-25 12:45:53,431 [ 1] INFO  Unity: MoveForward
+2023-07-25 12:45:53,432 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5000,4000,820) DIR:(100,0,0) SPD:300
+2023-07-25 12:45:54,119 [ 1] INFO  Unity: SetDirection:(98, -19, 0)
+2023-07-25 12:45:54,120 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5210,4000,820) DIR:(98,-19,0) SPD:300
+2023-07-25 12:45:54,220 [ 1] INFO  Unity: SetDirection:(93, -37, 0)
+2023-07-25 12:45:54,221 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5240,3994,820) DIR:(93,-37,0) SPD:300
+2023-07-25 12:45:54,318 [ 1] INFO  Unity: SetDirection:(83, -55, 0)
+2023-07-25 12:45:54,319 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5270,3982,820) DIR:(83,-55,0) SPD:300
+2023-07-25 12:45:54,422 [ 1] INFO  Unity: SetDirection:(71, -71, 0)
+2023-07-25 12:45:54,422 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5294,3964,820) DIR:(71,-71,0) SPD:300
+2023-07-25 12:45:54,554 [ 1] INFO  Unity: SetDirection:(57, -82, 0)
+2023-07-25 12:45:54,555 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5326,3932,820) DIR:(57,-82,0) SPD:300
+2023-07-25 12:45:55,357 [ 1] INFO  Unity: SetDirection:(41, -91, 0)
+2023-07-25 12:45:55,358 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5470,3740,820) DIR:(41,-91,0) SPD:300
+2023-07-25 12:45:55,475 [ 1] INFO  Unity: SetDirection:(24, -97, 0)
+2023-07-25 12:45:55,475 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5484,3705,820) DIR:(24,-97,0) SPD:300
+2023-07-25 12:45:55,608 [ 1] INFO  Unity: SetDirection:(5, -100, 0)
+2023-07-25 12:45:55,609 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5492,3665,820) DIR:(5,-100,0) SPD:300
+2023-07-25 12:45:58,279 [ 1] INFO  Unity: SetDirection:(24, -97, 0)
+2023-07-25 12:45:58,280 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5492,2865,820) DIR:(24,-97,0) SPD:300
+2023-07-25 12:45:58,362 [ 1] INFO  Unity: SetDirection:(41, -91, 0)
+2023-07-25 12:45:58,363 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5497,2840,820) DIR:(41,-91,0) SPD:300
+2023-07-25 12:45:58,460 [ 1] INFO  Unity: SetDirection:(59, -81, 0)
+2023-07-25 12:45:58,460 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5509,2810,820) DIR:(59,-81,0) SPD:300
+2023-07-25 12:45:58,562 [ 1] INFO  Unity: SetDirection:(74, -67, 0)
+2023-07-25 12:45:58,563 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5527,2786,820) DIR:(74,-67,0) SPD:300
+2023-07-25 12:45:58,660 [ 1] INFO  Unity: SetDirection:(86, -51, 0)
+2023-07-25 12:45:58,661 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5551,2768,820) DIR:(86,-51,0) SPD:300
+2023-07-25 12:45:58,776 [ 1] INFO  Unity: SetDirection:(94, -35, 0)
+2023-07-25 12:45:58,777 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5579,2747,820) DIR:(94,-35,0) SPD:300
+2023-07-25 12:45:59,530 [ 1] INFO  Unity: SetDirection:(98, -17, 0)
+2023-07-25 12:45:59,531 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(5804,2657,820) DIR:(98,-17,0) SPD:300
+2023-07-25 12:46:01,099 [ 1] INFO  Unity: SetDirection:(100, 1, 0)
+2023-07-25 12:46:01,100 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(6274,2563,820) DIR:(100,1,0) SPD:300
+2023-07-25 12:46:04,659 [ 1] INFO  Unity: TeleporterObject: Character [haha] Enter Teleporter [2]:[主城->副本]
+2023-07-25 12:46:04,660 [ 1] INFO  Unity: MapTeleportRequest :teleporter:2
+2023-07-25 12:46:04,675 [ 1] INFO  Unity: OnMapCharacterLeave: CharID:24
+2023-07-25 12:46:04,676 [ 1] INFO  Unity: RemoveCharacter:24
+2023-07-25 12:46:04,678 [ 1] INFO  Unity: LoadLevel: Map03
+2023-07-25 12:46:04,679 [ 1] INFO  Unity: OnMapCharacterEnter:Map:4 Count:11
+2023-07-25 12:46:04,679 [ 1] INFO  Unity: AddCharacter:24:haha Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,696 [ 1] INFO  Unity: AddCharacter:13:恶鬼 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,818 [ 1] WARN  Unity: No mesh data available for mesh Sphere001 on particle system fx_portal. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+UnityEngine.Resources:Load(String)
+Resloader:Load(String) (at Assets/Scripts/Assets/Resloader.cs:11)
+GameObjectManager:CreateCharacterObject(Character) (at Assets/Scripts/GameObject/GameObjectManager.cs:56)
+GameObjectManager:OnCharacterEnter(Character) (at Assets/Scripts/GameObject/GameObjectManager.cs:31)
+Managers.CharacterManager:AddCharacter(NCharacterInfo) (at Assets/Scripts/Managers/CharacterManager.cs:54)
+Services.MapService:OnMapCharacterEnter(Object, MapCharacterEnterResponse) (at Assets/Scripts/Services/MapService.cs:49)
+Network.MessageDistributer`1:RaiseEvent(Object, MapCharacterEnterResponse)
+Network.MessageDispatch`1:Dispatch(Object, NetMessageResponse)
+Network.MessageDistributer`1:Distribute()
+Network.NetClient:ProceeMessage() (at Assets/Scripts/Network/NetClient.cs:417)
+Network.NetClient:Update() (at Assets/Scripts/Network/NetClient.cs:435)
+
+2023-07-25 12:46:04,834 [ 1] INFO  Unity: AddCharacter:14:山丘巨人 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,852 [ 1] INFO  Unity: AddCharacter:15:嗜血蝙蝠 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,863 [ 1] INFO  Unity: AddCharacter:16:死神 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,880 [ 1] INFO  Unity: AddCharacter:17:山丘巨人 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,881 [ 1] INFO  Unity: AddCharacter:18:恶鬼 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,882 [ 1] INFO  Unity: AddCharacter:19:嗜血蝙蝠 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,883 [ 1] INFO  Unity: AddCharacter:20:死神 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,884 [ 1] INFO  Unity: AddCharacter:21:山丘巨人 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,885 [ 1] INFO  Unity: AddCharacter:22:死神 Map:4 Entity:SkillBridge.Message.NEntity
+2023-07-25 12:46:04,887 [ 1] INFO  Unity: LoadLevel: Map03
+2023-07-25 12:46:04,887 [ 1] INFO  Unity: Character_24_haha OnDestroy :ID:24 POS:(7344, 2563, 820) DIR:(100, 1, 0) SPD:300
+2023-07-25 12:46:04,903 [ 1] INFO  Unity: MoveForward
+2023-07-25 12:46:04,903 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2406,-2905,-57) DIR:(71,71,0) SPD:300
+2023-07-25 12:46:04,973 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-07-25 12:46:04,975 [ 1] INFO  Unity: Stop
+2023-07-25 12:46:04,976 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2382,-2881,-57) DIR:(71,71,0) SPD:0
+2023-07-25 12:46:04,977 [ 1] INFO  Unity: TeleporterObject: Character [haha] Enter Teleporter [8]:[副本传入点]
+2023-07-25 12:46:05,097 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-07-25 12:46:05,098 [ 1] INFO  Unity: TeleporterObject: Character [haha] Enter Teleporter [8]:[副本传入点]
+2023-07-25 12:46:05,500 [ 1] INFO  Unity: MoveForward
+2023-07-25 12:46:05,500 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2382,-2881,-57) DIR:(71,71,0) SPD:300
+2023-07-25 12:46:06,768 [ 1] INFO  Unity: Stop
+2023-07-25 12:46:06,769 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2078,-2577,-57) DIR:(71,71,0) SPD:0
+2023-07-25 12:46:06,770 [ 1] INFO  Unity: SetPosition:(-2114, -2613, -68)
+2023-07-25 12:46:06,770 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2114,-2613,-68) DIR:(71,71,0) SPD:0
+2023-07-25 12:46:07,283 [ 1] INFO  Unity: MoveForward
+2023-07-25 12:46:07,283 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-2114,-2613,-68) DIR:(71,71,0) SPD:300
+2023-07-25 12:46:07,899 [ 1] INFO  Unity: Stop
+2023-07-25 12:46:07,899 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1966,-2465,-68) DIR:(71,71,0) SPD:0
+2023-07-25 12:46:08,173 [ 1] INFO  Unity: MoveForward
+2023-07-25 12:46:08,174 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1966,-2465,-68) DIR:(71,71,0) SPD:300
+2023-07-25 12:46:08,439 [ 1] INFO  Unity: SetDirection:(56, 83, 0)
+2023-07-25 12:46:08,440 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1902,-2401,-68) DIR:(56,83,0) SPD:300
+2023-07-25 12:46:08,535 [ 1] INFO  Unity: SetDirection:(39, 92, 0)
+2023-07-25 12:46:08,536 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1884,-2377,-68) DIR:(39,92,0) SPD:300
+2023-07-25 12:46:08,637 [ 1] INFO  Unity: SetDirection:(20, 98, 0)
+2023-07-25 12:46:08,638 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1872,-2347,-68) DIR:(20,98,0) SPD:300
+2023-07-25 12:46:08,767 [ 1] INFO  Unity: SetDirection:(3, 100, 0)
+2023-07-25 12:46:08,768 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1864,-2307,-68) DIR:(3,100,0) SPD:300
+2023-07-25 12:46:08,856 [ 1] INFO  Unity: Stop
+2023-07-25 12:46:08,857 [ 1] INFO  Unity: MapEntityUpdateRequest :ID:24 pos:(-1864,-2282,-68) DIR:(3,100,0) SPD:0
+2023-07-25 12:46:11,341 [ 1] INFO  Unity: Character_24_haha OnDestroy :ID:24 POS:(-1864, -2282, -68) DIR:(3, 100, 0) SPD:0
+2023-07-25 12:46:11,342 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2023-07-25 12:46:11,343 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+UnityEngine.Debug:LogWarning(Object)
+Network.NetClient:CloseConnection(Int32) (at Assets/Scripts/Network/NetClient.cs:176)
+Network.NetClient:OnDestroy() (at Assets/Scripts/Network/NetClient.cs:171)
+

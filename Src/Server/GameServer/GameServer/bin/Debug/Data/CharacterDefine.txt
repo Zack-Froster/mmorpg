@@ -1,0 +1,68 @@
+{
+  "1": {
+    "TID": 1,
+    "Name": "战士",
+    "Type": "Normal",
+    "Class": "WARRIOR",
+    "Resource": "Character/Warrior",
+    "Description": "精通近战技巧，兼具攻击和防御",
+    "InitLevel": 1,
+    "Speed": 450
+  },
+  "2": {
+    "TID": 2,
+    "Name": "法师",
+    "Type": "Normal",
+    "Class": "WIZARD",
+    "Resource": "Character/Wizard",
+    "Description": "精通魔法，可奶可攻",
+    "InitLevel": 1,
+    "Speed": 450
+  },
+  "3": {
+    "TID": 3,
+    "Name": "弓箭手",
+    "Type": "Normal",
+    "Class": "ARCHER",
+    "Resource": "Character/Archer",
+    "Description": "擅长从远处破敌",
+    "InitLevel": 1,
+    "Speed": 450
+  },
+  "1001": {
+    "TID": 1001,
+    "Name": "恶鬼",
+    "Type": "Normal",
+    "Class": "NONE",
+    "Resource": "Monster/M1001",
+    "InitLevel": 1,
+    "Speed": 300
+  },
+  "1002": {
+    "TID": 1002,
+    "Name": "山丘巨人",
+    "Type": "Normal",
+    "Class": "NONE",
+    "Resource": "Monster/M1002",
+    "InitLevel": 1,
+    "Speed": 300
+  },
+  "1003": {
+    "TID": 1003,
+    "Name": "嗜血蝙蝠",
+    "Type": "Normal",
+    "Class": "NONE",
+    "Resource": "Monster/M1003",
+    "InitLevel": 1,
+    "Speed": 300
+  },
+  "1005": {
+    "TID": 1005,
+    "Name": "死神",
+    "Type": "Normal",
+    "Class": "NONE",
+    "Resource": "Monster/M1005",
+    "InitLevel": 1,
+    "Speed": 300
+  }
+}

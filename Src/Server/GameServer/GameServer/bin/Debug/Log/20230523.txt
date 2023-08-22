@@ -1,0 +1,24 @@
+
+2023-05-23 08:38:15,705 [1] [INFO ] [GameServer] ：Game Server Init
+2023-05-23 08:38:16,340 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-05-23 08:38:16,545 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:奥特兰
+2023-05-23 08:38:16,553 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外1
+2023-05-23 08:38:16,553 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外2
+2023-05-23 08:38:16,553 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:副本1
+2023-05-23 08:38:16,554 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-05-23 08:38:16,601 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,601 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-05-23 08:38:16,658 [1] [WARN ] [GameServer] ：NetService Started
+2023-05-23 08:41:24,443 [5] [WARN ] [GameServer] ：Client[127.0.0.1:57638]] Connected
+2023-05-23 08:41:24,488 [5] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-05-23 08:41:24,572 [7] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-05-23 08:41:39,644 [18] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-05-23 08:41:39,646 [7] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-05-23 08:41:39,654 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2023-05-23 08:47:08,527 [18] [WARN ] [GameServer] ：Client[] Disconnected

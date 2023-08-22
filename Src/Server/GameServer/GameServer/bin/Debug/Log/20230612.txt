@@ -1,0 +1,31 @@
+
+2023-06-12 12:41:18,157 [1] [INFO ] [GameServer] ：Game Server Init
+2023-06-12 12:41:18,896 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-06-12 12:41:19,109 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:奥特兰
+2023-06-12 12:41:19,120 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外1
+2023-06-12 12:41:19,120 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外2
+2023-06-12 12:41:19,120 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:副本1
+2023-06-12 12:41:19,121 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-06-12 12:41:19,172 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,172 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,172 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,172 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,172 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,173 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,174 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,177 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-12 12:41:19,225 [1] [WARN ] [GameServer] ：NetService Started
+2023-06-12 12:41:38,285 [4] [WARN ] [GameServer] ：Client[127.0.0.1:60486]] Connected
+2023-06-12 12:41:38,344 [4] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-06-12 12:41:38,427 [7] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-06-12 12:41:43,997 [5] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-06-12 12:41:43,998 [9] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-06-12 12:41:44,005 [9] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2023-06-12 12:42:49,187 [5] [WARN ] [GameServer] ：Client[] Disconnected
+2023-06-12 12:43:15,476 [5] [WARN ] [GameServer] ：Client[127.0.0.1:57114]] Connected
+2023-06-12 12:43:15,520 [5] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-06-12 12:43:15,520 [7] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-06-12 12:43:17,907 [22] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-06-12 12:43:17,907 [7] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-06-12 12:43:17,908 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2023-06-12 12:43:36,981 [22] [WARN ] [GameServer] ：Client[] Disconnected

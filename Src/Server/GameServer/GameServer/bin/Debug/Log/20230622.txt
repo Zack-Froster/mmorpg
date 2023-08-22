@@ -1,0 +1,290 @@
+
+2023-06-22 14:06:01,717 [1] [INFO ] [GameServer] ：Game Server Init
+2023-06-22 14:06:26,355 [1] [INFO ] [GameServer] ：Game Server Init
+2023-06-22 14:06:26,918 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-06-22 14:06:27,340 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:奥特兰
+2023-06-22 14:06:27,353 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外1
+2023-06-22 14:06:27,354 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:野外2
+2023-06-22 14:06:27,354 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:副本1
+2023-06-22 14:06:27,356 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-06-22 14:06:27,410 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,411 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,415 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-06-22 14:06:27,460 [1] [WARN ] [GameServer] ：NetService Started
+2023-06-22 14:09:31,489 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57561]] Connected
+2023-06-22 14:09:31,515 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-06-22 14:09:31,596 [5] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-06-22 14:09:35,461 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-06-22 14:09:35,463 [7] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-06-22 14:09:35,465 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2023-06-22 14:09:41,894 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57564]] Connected
+2023-06-22 14:09:41,940 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:21
+2023-06-22 14:09:41,940 [8] [INFO ] [GameServer] ：UserLoginRequest: UserUser11   Pass:111
+2023-06-22 14:09:43,820 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-06-22 14:09:43,821 [5] [INFO ] [GameServer] ：UserGameEnterRequest: character:17 : ni的mu蛛 Map:1
+2023-06-22 14:09:43,821 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2023-06-22 14:09:44,906 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:44,910 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5000,4000,820),dir:(98,19,0),spd:0
+2023-06-22 14:09:44,996 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:44,996 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5000,4000,820),dir:(93,37,0),spd:0
+2023-06-22 14:09:45,088 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:45,088 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5000,4000,820),dir:(85,53,0),spd:0
+2023-06-22 14:09:45,210 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:45,210 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5000,4000,820),dir:(73,68,0),spd:0
+2023-06-22 14:09:45,501 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:09:45,502 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(5000,4000,820),dir:(73,68,0),spd:300
+2023-06-22 14:09:46,011 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:36
+2023-06-22 14:09:46,011 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5120,4090,820),dir:(60,80,0),spd:300
+2023-06-22 14:09:46,146 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:09:46,147 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(5144,4122,820),dir:(60,80,0),spd:0
+2023-06-22 14:09:46,177 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:46,177 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4122,820),dir:(44,90,0),spd:0
+2023-06-22 14:09:46,248 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:46,249 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4122,820),dir:(27,96,0),spd:0
+2023-06-22 14:09:46,419 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:46,419 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4122,820),dir:(9,100,0),spd:0
+2023-06-22 14:09:47,783 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:47,783 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(98,-19,0),spd:0
+2023-06-22 14:09:47,870 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:47,870 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(93,-37,0),spd:0
+2023-06-22 14:09:47,944 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:47,945 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(85,-53,0),spd:0
+2023-06-22 14:09:48,066 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:48,067 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(74,-67,0),spd:0
+2023-06-22 14:09:48,160 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:47
+2023-06-22 14:09:48,160 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveFwd Entity:(1:pos:(5000,4000,820),dir:(74,-67,0),spd:300
+2023-06-22 14:09:48,486 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:48,486 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(5080,3940,820),dir:(74,-67,0),spd:0
+2023-06-22 14:09:48,541 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:55
+2023-06-22 14:09:48,542 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveBack Entity:(1:pos:(5080,3940,820),dir:(74,-67,0),spd:-300
+2023-06-22 14:09:48,833 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:48,833 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(5008,3994,820),dir:(74,-67,0),spd:0
+2023-06-22 14:09:48,981 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:48,982 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5008,3994,820),dir:(85,-53,0),spd:0
+2023-06-22 14:09:49,026 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:55
+2023-06-22 14:09:49,026 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveBack Entity:(1:pos:(5008,3994,820),dir:(85,-53,0),spd:-300
+2023-06-22 14:09:49,076 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:09:49,076 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(94,-34,0),spd:-300
+2023-06-22 14:09:49,168 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:09:49,168 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4970,4012,820),dir:(99,-14,0),spd:-300
+2023-06-22 14:09:49,263 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:49,264 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4940,4018,820),dir:(100,7,0),spd:-300
+2023-06-22 14:09:49,353 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:49,354 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4910,4018,820),dir:(96,27,0),spd:-300
+2023-06-22 14:09:49,446 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:49,446 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4885,4013,820),dir:(90,44,0),spd:-300
+2023-06-22 14:09:49,549 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:49,549 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4855,4001,820),dir:(79,61,0),spd:-300
+2023-06-22 14:09:49,618 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:09:49,618 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4839,3989,820),dir:(79,61,0),spd:0
+2023-06-22 14:09:49,667 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:09:49,667 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveFwd Entity:(1:pos:(4839,3989,820),dir:(67,74,0),spd:300
+2023-06-22 14:09:49,716 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:49,716 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4854,4009,820),dir:(53,85,0),spd:0
+2023-06-22 14:09:49,762 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:09:49,762 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4854,4009,820),dir:(53,85,0),spd:0
+2023-06-22 14:09:49,811 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:49,812 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4854,4009,820),dir:(34,94,0),spd:0
+2023-06-22 14:09:49,854 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:49,854 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4854,4009,820),dir:(34,94,0),spd:0
+2023-06-22 14:09:49,907 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2023-06-22 14:09:49,907 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4854,4009,820),dir:(14,99,0),spd:0
+2023-06-22 14:09:49,958 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:09:49,958 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveFwd Entity:(1:pos:(4854,4009,820),dir:(14,99,0),spd:300
+2023-06-22 14:09:50,011 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:09:50,011 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4859,4034,820),dir:(-5,100,0),spd:300
+2023-06-22 14:09:50,066 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:50,066 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4859,4049,820),dir:(-5,100,0),spd:0
+2023-06-22 14:09:50,171 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:50,171 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4859,4049,820),dir:(-23,97,0),spd:0
+2023-06-22 14:09:50,249 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:55
+2023-06-22 14:09:50,250 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveBack Entity:(1:pos:(4859,4049,820),dir:(-23,97,0),spd:-300
+2023-06-22 14:09:50,598 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:09:50,598 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4879,3949,820),dir:(-4,100,0),spd:-300
+2023-06-22 14:09:50,736 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:09:50,736 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4879,3904,820),dir:(14,99,0),spd:-300
+2023-06-22 14:09:50,908 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:09:50,909 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4869,3854,820),dir:(14,99,0),spd:0
+2023-06-22 14:09:53,133 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:09:53,133 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(5144,4122,820),dir:(9,100,0),spd:300
+2023-06-22 14:09:53,248 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:09:53,248 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(5144,4152,820),dir:(9,100,0),spd:0
+2023-06-22 14:09:58,012 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:58,012 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-11,99,0),spd:0
+2023-06-22 14:09:58,126 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:58,126 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-28,96,0),spd:0
+2023-06-22 14:09:58,171 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:58,171 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-45,89,0),spd:0
+2023-06-22 14:09:58,293 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:58,294 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-61,79,0),spd:0
+2023-06-22 14:09:59,144 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:59,145 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-74,67,0),spd:0
+2023-06-22 14:09:59,279 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:59,279 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-85,53,0),spd:0
+2023-06-22 14:09:59,414 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:59,414 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-94,35,0),spd:0
+2023-06-22 14:09:59,471 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:09:59,471 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-99,17,0),spd:0
+2023-06-22 14:09:59,657 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:51
+2023-06-22 14:09:59,657 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5144,4152,820),dir:(-100,-1,0),spd:0
+2023-06-22 14:09:59,819 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:56
+2023-06-22 14:09:59,819 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(5144,4152,820),dir:(-100,-1,0),spd:300
+2023-06-22 14:09:59,989 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:09:59,989 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5084,4152,820),dir:(-98,-19,0),spd:300
+2023-06-22 14:10:00,073 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:00,073 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5054,4146,820),dir:(-93,-36,0),spd:300
+2023-06-22 14:10:00,172 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:00,172 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5024,4134,820),dir:(-84,-55,0),spd:300
+2023-06-22 14:10:00,284 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:00,284 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5000,4116,820),dir:(-71,-71,0),spd:300
+2023-06-22 14:10:00,413 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:00,413 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4976,4092,820),dir:(-55,-84,0),spd:300
+2023-06-22 14:10:00,514 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:00,515 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4952,4060,820),dir:(-38,-93,0),spd:300
+2023-06-22 14:10:01,613 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:01,613 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4822,3735,820),dir:(-38,-93,0),spd:0
+2023-06-22 14:10:01,653 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:64
+2023-06-22 14:10:01,653 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveBack Entity:(2:pos:(4822,3735,820),dir:(-38,-93,0),spd:-300
+2023-06-22 14:10:04,812 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:62
+2023-06-22 14:10:04,812 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5061,4356,801),dir:(-38,-93,0),spd:-300
+2023-06-22 14:10:06,058 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:62
+2023-06-22 14:10:06,058 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5192,4678,801),dir:(-38,-93,0),spd:-300
+2023-06-22 14:10:07,288 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:62
+2023-06-22 14:10:07,288 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5324,5000,801),dir:(-38,-93,0),spd:-300
+2023-06-22 14:10:07,471 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:07,472 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(5348,5060,801),dir:(-38,-93,0),spd:0
+2023-06-22 14:10:07,654 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:56
+2023-06-22 14:10:07,654 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(5348,5060,801),dir:(-38,-93,0),spd:300
+2023-06-22 14:10:08,691 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:08,692 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5224,4750,801),dir:(-20,-98,0),spd:300
+2023-06-22 14:10:08,821 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:08,821 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5217,4715,801),dir:(-2,-100,0),spd:300
+2023-06-22 14:10:08,901 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:08,902 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5217,4690,801),dir:(16,-99,0),spd:300
+2023-06-22 14:10:08,985 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:08,986 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5223,4660,801),dir:(36,-93,0),spd:300
+2023-06-22 14:10:09,091 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:09,092 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5235,4630,801),dir:(54,-84,0),spd:300
+2023-06-22 14:10:09,248 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:09,249 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5262,4594,801),dir:(69,-73,0),spd:300
+2023-06-22 14:10:09,630 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:09,630 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5331,4502,801),dir:(54,-84,0),spd:300
+2023-06-22 14:10:09,717 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:09,717 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5349,4478,801),dir:(37,-93,0),spd:300
+2023-06-22 14:10:09,809 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:09,809 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5359,4453,801),dir:(20,-98,0),spd:300
+2023-06-22 14:10:09,902 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:09,903 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5365,4423,801),dir:(-1,-100,0),spd:300
+2023-06-22 14:10:10,009 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:10,009 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5365,4393,801),dir:(-22,-98,0),spd:300
+2023-06-22 14:10:10,121 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:10,122 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5359,4363,801),dir:(-41,-91,0),spd:300
+2023-06-22 14:10:10,256 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:10,257 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(5343,4323,801),dir:(-57,-82,0),spd:300
+2023-06-22 14:10:12,158 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:12,158 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4998,3863,801),dir:(-71,-70,0),spd:300
+2023-06-22 14:10:12,262 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:12,262 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4974,3839,801),dir:(-83,-55,0),spd:300
+2023-06-22 14:10:12,369 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:12,369 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4950,3821,801),dir:(-93,-37,0),spd:300
+2023-06-22 14:10:12,485 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:54
+2023-06-22 14:10:12,485 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4910,3805,801),dir:(-98,-19,0),spd:300
+2023-06-22 14:10:12,586 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:12,586 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4890,3801,801),dir:(-98,-19,0),spd:0
+2023-06-22 14:10:12,758 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:51
+2023-06-22 14:10:12,759 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-100,-1,0),spd:0
+2023-06-22 14:10:12,873 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:12,873 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-98,18,0),spd:0
+2023-06-22 14:10:12,981 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:12,981 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-93,37,0),spd:0
+2023-06-22 14:10:13,063 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,063 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-85,53,0),spd:0
+2023-06-22 14:10:13,159 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,159 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-74,67,0),spd:0
+2023-06-22 14:10:13,254 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,255 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-59,81,0),spd:0
+2023-06-22 14:10:13,317 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,317 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-44,90,0),spd:0
+2023-06-22 14:10:13,419 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,420 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-28,96,0),spd:0
+2023-06-22 14:10:13,502 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:42
+2023-06-22 14:10:13,503 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4890,3801,801),dir:(-11,99,0),spd:0
+2023-06-22 14:10:13,547 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:47
+2023-06-22 14:10:13,547 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(4890,3801,801),dir:(-11,99,0),spd:300
+2023-06-22 14:10:13,609 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:36
+2023-06-22 14:10:13,609 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4885,3826,801),dir:(7,100,0),spd:300
+2023-06-22 14:10:14,000 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:14,000 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4885,3946,801),dir:(7,100,0),spd:0
+2023-06-22 14:10:14,060 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:46
+2023-06-22 14:10:14,061 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveBack Entity:(2:pos:(4885,3946,801),dir:(7,100,0),spd:-300
+2023-06-22 14:10:14,196 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:14,196 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4885,3896,801),dir:(-13,99,0),spd:-300
+2023-06-22 14:10:14,343 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:14,343 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4895,3846,801),dir:(-32,95,0),spd:-300
+2023-06-22 14:10:14,480 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:14,481 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4909,3811,801),dir:(-50,87,0),spd:-300
+2023-06-22 14:10:14,557 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:14,557 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4927,3787,801),dir:(-67,75,0),spd:-300
+2023-06-22 14:10:14,687 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:10:14,687 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4942,3767,801),dir:(-67,75,0),spd:0
+2023-06-22 14:10:14,715 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:47
+2023-06-22 14:10:14,716 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(4942,3767,801),dir:(-80,60,0),spd:300
+2023-06-22 14:10:14,740 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:14,740 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4942,3767,801),dir:(-80,60,0),spd:300
+2023-06-22 14:10:14,794 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:14,794 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4914,3788,801),dir:(-89,45,0),spd:300
+2023-06-22 14:10:15,115 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:15,115 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4834,3828,801),dir:(-80,60,0),spd:300
+2023-06-22 14:10:15,217 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-06-22 14:10:15,218 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4810,3846,801),dir:(-66,75,0),spd:300
+2023-06-22 14:10:15,308 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:10:15,308 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4801,3858,801),dir:(-66,75,0),spd:0
+2023-06-22 14:10:15,350 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:55
+2023-06-22 14:10:15,350 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveBack Entity:(2:pos:(4807,3850,801),dir:(-50,87,0),spd:-300
+2023-06-22 14:10:15,382 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:15,383 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4807,3850,801),dir:(-50,87,0),spd:-300
+2023-06-22 14:10:15,547 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:15,548 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4846,3798,801),dir:(-33,94,0),spd:-300
+2023-06-22 14:10:15,682 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:53
+2023-06-22 14:10:15,682 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4862,3758,801),dir:(-15,99,0),spd:-300
+2023-06-22 14:10:15,792 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:44
+2023-06-22 14:10:15,792 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4868,3728,801),dir:(5,100,0),spd:-300
+2023-06-22 14:10:15,841 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:10:15,841 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4868,3723,801),dir:(5,100,0),spd:300
+2023-06-22 14:10:15,871 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:10:15,871 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(4868,3738,801),dir:(22,97,0),spd:300
+2023-06-22 14:10:15,918 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:36
+2023-06-22 14:10:15,918 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4868,3738,801),dir:(22,97,0),spd:300
+2023-06-22 14:10:16,347 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:16,347 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4895,3873,801),dir:(22,97,0),spd:0
+2023-06-22 14:10:16,377 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:46
+2023-06-22 14:10:16,377 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveBack Entity:(2:pos:(4895,3873,801),dir:(22,97,0),spd:-300
+2023-06-22 14:10:16,865 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:16,865 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4865,3723,801),dir:(22,97,0),spd:0
+2023-06-22 14:10:16,900 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:10:16,900 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveFwd Entity:(2:pos:(4868,3780,801),dir:(22,97,0),spd:300
+2023-06-22 14:10:16,931 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:36
+2023-06-22 14:10:16,932 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:None Entity:(2:pos:(4868,3780,801),dir:(22,97,0),spd:300
+2023-06-22 14:10:17,417 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:17,418 [11] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4899,3935,801),dir:(22,97,0),spd:0
+2023-06-22 14:10:17,447 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:46
+2023-06-22 14:10:17,448 [12] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:MoveBack Entity:(2:pos:(4899,3935,801),dir:(22,97,0),spd:-300
+2023-06-22 14:10:17,855 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:17,855 [13] [INFO ] [GameServer] ：OnMapEntitySync: characterID:2:ni的mu蛛 Entity.Id:2 Evt:Idle Entity:(2:pos:(4874,3810,801),dir:(22,97,0),spd:0
+2023-06-22 14:10:18,065 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2023-06-22 14:10:20,024 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:46
+2023-06-22 14:10:20,024 [14] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveBack Entity:(1:pos:(4869,3854,820),dir:(14,99,0),spd:-300
+2023-06-22 14:10:20,639 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:20,639 [5] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4832,3669,820),dir:(14,99,0),spd:0
+2023-06-22 14:10:20,668 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:38
+2023-06-22 14:10:20,669 [7] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:MoveFwd Entity:(1:pos:(4875,3693,804),dir:(14,99,0),spd:300
+2023-06-22 14:10:20,697 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:36
+2023-06-22 14:10:20,698 [8] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:None Entity:(1:pos:(4875,3693,804),dir:(14,99,0),spd:300
+2023-06-22 14:10:21,654 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:35
+2023-06-22 14:10:21,654 [10] [INFO ] [GameServer] ：OnMapEntitySync: characterID:1:haha Entity.Id:1 Evt:Idle Entity:(1:pos:(4934,3988,804),dir:(14,99,0),spd:0
+2023-06-22 14:10:22,086 [15] [WARN ] [GameServer] ：Client[] Disconnected

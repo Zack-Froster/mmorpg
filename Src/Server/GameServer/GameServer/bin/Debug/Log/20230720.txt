@@ -1,0 +1,29 @@
+
+2023-07-20 21:54:45,013 [1] [INFO ] [GameServer] ：Game Server Init
+2023-07-20 21:54:45,521 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-07-20 21:54:45,884 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:布林镇
+2023-07-20 21:54:45,889 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:落日森林
+2023-07-20 21:54:45,889 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:落日余晖
+2023-07-20 21:54:45,889 [1] [INFO ] [GameServer] ：MapManager.Init > Map:Common.Data.MapDefine:副本1
+2023-07-20 21:54:45,890 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-07-20 21:54:45,925 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,925 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,925 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,926 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,926 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,926 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,926 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,926 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-20 21:54:45,995 [1] [WARN ] [GameServer] ：NetService Started
+2023-07-20 21:55:15,617 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51246]] Connected
+2023-07-20 21:55:15,666 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-07-20 21:55:15,747 [7] [INFO ] [GameServer] ：UserRegisterRequest: User:User1   Pass:111
+2023-07-20 21:55:25,192 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2023-07-20 21:55:25,195 [8] [INFO ] [GameServer] ：UserLoginRequest: UserUser1   Pass:111
+2023-07-20 21:55:30,017 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:16
+2023-07-20 21:55:30,020 [7] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:haha   Class:Archer
+2023-07-20 21:55:31,370 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-20 21:55:31,372 [7] [INFO ] [GameServer] ：UserGameEnterRequest: character:1 : haha Map:1
+2023-07-20 21:55:31,383 [7] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2023-07-20 21:55:56,592 [17] [INFO ] [GameServer] ：CharacterLeave: Map:1 chaaracter:1
+2023-07-20 21:55:56,593 [17] [WARN ] [GameServer] ：Client[] Disconnected
